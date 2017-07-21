@@ -3,7 +3,9 @@ themesdir = /usr/share/emerald/themes
 themes_DATA = \
     Blade.emerald \
     By_Design.emerald \
+    Consolidated.emerald \
     Equinox.emerald \
+    Gray10_SE.emerald \
     H2O.emerald \
     H2O_W8.1.emerald \
     HUD_Machine_Red.emerald \
@@ -11,13 +13,20 @@ themes_DATA = \
     Jarvis.emerald \
     Jarvis_Green.emerald \
     Jarvis_Red.emerald \
+    Metal_Graveyard.emerald \
     Midnight.emerald \
     Midnight_Glass.emerald \
+    Nightshade.emerald \
     Nvidia.emerald \
     Poison.emerald \
     Poison_W8.1.emerald \
     Prometheus.emerald \
+    Prometheus_Ghost.emerald \
+    Prometheus_Green.emerald \
+    Prometheus_Orange.emerald \
     Sophistication_Incorporated.emerald \
+    Star_Trek.emerald \
+    Thin_White_Line.emerald
     Toxic.emerald \
     Toxic_Blue.emerald \
     Toxic_Blue_W8.1.emerald \
@@ -30,8 +39,6 @@ themes_DATA = \
     Windows_10_Black_Edition_Pink.emerald \
     Windows_10_Black_Edition_Red.emerald \
     Zero-G.emerald
-
-
 
 EXTRA_DIST = $(themes_DATA) import.sh
 
