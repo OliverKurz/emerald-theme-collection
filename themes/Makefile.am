@@ -11,8 +11,6 @@ themes_DATA = \
     HUD_Machine_Red.emerald \
     HUD_Machine_Red_White.emerald \
     Jarvis.emerald \
-    Jarvis_Green.emerald \
-    Jarvis_Red.emerald \
     Metal_Graveyard.emerald \
     Midnight.emerald \
     Midnight_Glass.emerald \
