@@ -26,7 +26,7 @@ themes_DATA = \
     Prometheus_Orange.emerald \
     Sophistication_Incorporated.emerald \
     Star_Trek.emerald \
-    Thin_White_Line.emerald
+    Thin_White_Line.emerald \
     Toxic.emerald \
     Toxic_Blue.emerald \
     Toxic_Blue_W8.1.emerald \
