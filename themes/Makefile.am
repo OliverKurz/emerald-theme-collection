@@ -5,12 +5,14 @@ themes_DATA = \
     By_Design.emerald \
     Consolidated.emerald \
     Equinox.emerald \
+    Friday_The_13th.emerald \
     Gray10_SE.emerald \
     H2O.emerald \
     H2O_W8.1.emerald \
     HUD_Machine_Red.emerald \
     HUD_Machine_Red_White.emerald \
     Jarvis.emerald \
+    John_Wick.emerald \
     Metal_Graveyard.emerald \
     Midnight.emerald \
     Midnight_Glass.emerald \
