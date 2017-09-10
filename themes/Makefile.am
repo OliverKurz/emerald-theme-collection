@@ -8,7 +8,7 @@ themes_DATA = \
     Friday_The_13th.emerald \
     Gray10_SE.emerald \
     H2O.emerald \
-    H2O_W8.1.emerald \
+    H2O_v2.emerald \
     HUD_Machine_Red.emerald \
     HUD_Machine_Red_White.emerald \
     Jarvis.emerald \
@@ -19,7 +19,7 @@ themes_DATA = \
     Nightshade.emerald \
     Nvidia.emerald \
     Poison.emerald \
-    Poison_W8.1.emerald \
+    Poison_v2.emerald \
     Prometheus.emerald \
     Prometheus_Ghost.emerald \
     Prometheus_Green.emerald \
@@ -29,8 +29,8 @@ themes_DATA = \
     Thin_White_Line.emerald \
     Toxic.emerald \
     Toxic_Blue.emerald \
-    Toxic_Blue_W8.1.emerald \
-    Toxic_W8.1.emerald \
+    Toxic_Blue_v2.emerald \
+    Toxic_v2.emerald \
     Windows_10_Black_Edition.emerald \
     Windows_10_Black_Edition_Aqua.emerald \
     Windows_10_Black_Edition_Blue.emerald \
