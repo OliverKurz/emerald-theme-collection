@@ -4,6 +4,8 @@ themes_DATA = \
     Blade.emerald \
     By_Design.emerald \
     Consolidated.emerald \
+    DeathStar.emerald \
+    DeathStar_Blue.emerald \
     Equinox.emerald \
     Friday_The_13th.emerald \
     Gray10_SE.emerald \
