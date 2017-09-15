@@ -24,6 +24,7 @@ themes_DATA = \
     Prometheus_Ghost.emerald \
     Prometheus_Green.emerald \
     Prometheus_Orange.emerald \
+    Retribution.emerald \
     Sophistication_Incorporated.emerald \
     Star_Trek.emerald \
     Thin_White_Line.emerald \
