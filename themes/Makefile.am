@@ -8,7 +8,7 @@ themes_DATA = \
     DeathStar.emerald \
     DeathStar_Blue.emerald \
     Equinox.emerald \
-    Friday_The_13th.emerald \
+    Friday_the_13th.emerald \
     Gray10_SE.emerald \
     H2O.emerald \
     H2O_v2.emerald \
