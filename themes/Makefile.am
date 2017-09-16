@@ -3,6 +3,7 @@ themesdir = /usr/share/emerald/themes
 themes_DATA = \
     Blade.emerald \
     By_Design.emerald \
+    Chrononaut.emerald \
     Consolidated.emerald \
     DeathStar.emerald \
     DeathStar_Blue.emerald \
