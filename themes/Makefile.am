@@ -43,7 +43,7 @@ themes_DATA = \
     Windows_10_Black_Edition_Orange_Emerald.emerald \
     Windows_10_Black_Edition_Pink_Emerald.emerald \
     Windows_10_Black_Edition_Red_Emerald.emerald \
-    Zero-G.emerald
+    Zero-G_Emerald.emerald
 
 EXTRA_DIST = $(themes_DATA) import.sh
 
