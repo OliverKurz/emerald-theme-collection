@@ -23,6 +23,7 @@ themes_DATA = \
     Midnight_Emerald.emerald \
     Midnight_Glass_Emerald.emerald \
     Nightshade_Emerald.emerald \
+    Nightshade_Rosewood_Emerald.emerald \
     Nvidia_Emerald.emerald \
     Poison_Emerald.emerald \
     Poison_v2_Emerald.emerald \
