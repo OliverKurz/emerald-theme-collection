@@ -30,6 +30,7 @@ themes_DATA = \
     Prometheus_Ghost_Emerald.emerald \
     Prometheus_Green_Emerald.emerald \
     Prometheus_Orange_Emerald.emerald \
+    Prometheus_Revisioned_Emerald.emerald \
     Retribution_Emerald.emerald \
     Sophistication_Incorporated_Emerald.emerald \
     Toxic_Blue_Emerald.emerald \
