@@ -24,7 +24,7 @@ $ sudo make install
 
 6. Start Emerald Theme Manager. In the Emerald Settings tab try unchecking all of the options and disabling button fade and pulse for the best theme performance.
 
-* Uninstalling the Emerald themes, for now, can be done by cding as administrator into the /usr/share/emerald/themes directory and searching for folders to delete with the tag _Emerald.
+* Uninstalling the Emerald themes can be done by cding as administrator into the /usr/share/emerald/themes directory and searching for folders to delete with the tag _Emerald.
 
 Known Issues
 ------------
