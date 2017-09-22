@@ -11,7 +11,8 @@ Installation Walkthrough
 
 3. cd into the directory you cloned or copied this archive into and type the following commands:
 
-```$ ./autogen.sh
+```
+$ ./autogen.sh
 $ make
 $ sudo make install
 ```
