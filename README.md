@@ -3,6 +3,7 @@ Emerald Theme Collection
 This is a complete collection of my premium theme ports for the Emerald Compiz Window Decorator. Compatible Desktop Environments: Any Desktop Environment which can run Compiz.
 
 ![Emerald_Theme_Collection](https://github.com/OliverKurz/emerald-theme-collection/raw/master/images/Preview.png)
+
 Installation Walkthrough
 ------------------------
 1. Install a Linux distribution that supports a Desktop Environment which Compiz can be run on.
@@ -25,9 +26,9 @@ $ sudo make install
 
 Known Issues
 ------------
-1. Packages do not uninstall using sudo make uninstall.
+1. Emerald themes do not uninstall using `sudo make uninstall`.
 
-2. Fonts having to be installed manually is an extra step.
+2. Installing fonts is an annoying manual extra step.
 
 Credits
 --------
