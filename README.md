@@ -10,7 +10,7 @@ Installation Walkthrough
 
 2. Install Compiz and Emerald (the Compiz Reloaded project is recommended).
 
-3. cd into the directory this archive is cloned or copied into and type the following commands:
+3. cd into the directory this archive was cloned or copied into and type the following commands:
 
 ```
 $ ./autogen.sh
