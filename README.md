@@ -1,6 +1,6 @@
 Emerald Theme Collection
 ========================
-This is a complete collection of premium theme ports for the Emerald Compiz Window Decorator. Compatible Desktop Environments: Any Desktop Environment which can run Compiz.
+This is a complete collection of premium theme ports for the Emerald Compiz Window Decorator.
 
 ![Emerald_Theme_Collection](https://github.com/OliverKurz/emerald-theme-collection/raw/master/images/Preview.png)
 
