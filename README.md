@@ -8,9 +8,9 @@ Installation Walkthrough
 ------------------------
 1. Choose a Linux distribution that supports MATE, Xfce, LXDE, or LXQt.
 
-2. Install Compiz and Emerald, the [Compiz Reloaded project](https://github.com/compiz-reloaded) is recommended.
+2. Install Compiz and Emerald. The [Compiz Reloaded project](https://github.com/compiz-reloaded) is recommended.
 
-3. cd into the directory that this archive was cloned or copied to and enter the commands:
+3. cd into the directory the archive was cloned or copied to and enter the commands:
 
 ```
 $ ./autogen.sh
@@ -18,11 +18,11 @@ $ make
 $ sudo make install
 ```
 
-4. Cut/paste the fonts included in the /fonts directory into the correct fonts directory (usually /usr/share/fonts/truetype).
+4. Cut/paste the fonts included in the /fonts directory into the truetype fonts directory, usually /usr/share/fonts/truetype.
 
 5. Start Compiz, and run Emerald for the Window Decoration.
 
-6. Open the Emerald Theme Manager and there are system themes with the tag _Emerald in their title. Unchecking all of the options in the Emerald Settings section in the Emerald Theme Manager is recommended, as well as disabling the button fade and pulse settings. Uninstalling these Emerald themes, for now, can be done by cding as administrator into the /usr/share/emerald/themes directory and searching for folders to delete with the tag _Emerald.
+6. Start Emerald Theme Manager. In the Emerald Settings tab try unchecking all of the options and disabling button fade and pulse for the best theme performance. Uninstalling these Emerald themes, for now, can be done by cding as administrator into the /usr/share/emerald/themes directory and searching for folders to delete with the tag _Emerald.
 
 Known Issues
 ------------
