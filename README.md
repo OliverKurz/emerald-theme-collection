@@ -9,7 +9,7 @@ Installation Walkthrough
 
 2. Install Compiz and Emerald (I recommend checking out the Compiz Reloaded project).
 
-3. cd into the directory you cloned or copied this archive into and type the following commands:
+3. cd into the directory this archive is cloned or copied into and type the following commands:
 
 ```
 $ ./autogen.sh
@@ -17,7 +17,7 @@ $ make
 $ sudo make install
 ```
 
-4. Manually cut/paste the fonts included in the "fonts" directory to the correct fonts directory (usually "/usr/share/fonts/truetype")
+4. Cut/paste the fonts included in the "fonts" directory to the correct fonts directory (usually "/usr/share/fonts/truetype")
 
 5. Run Compiz and run Emerald as the Window Decoration.
 
@@ -27,7 +27,7 @@ Known Issues
 ------------
 1. Packages do not uninstall using sudo make uninstall
 
-2. Fonts having to be installed manually
+2. Fonts having to be installed manually is an extra step
 
 Credits
 --------
