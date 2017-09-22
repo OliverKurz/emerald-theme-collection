@@ -10,7 +10,7 @@ Installation Walkthrough
 
 2. Install Compiz and Emerald. The [Compiz Reloaded project](https://github.com/compiz-reloaded) is recommended.
 
-3. cd into the directory the archive was cloned or copied to and enter the commands:
+3. `cd` into the directory the archive was cloned or copied to and enter the commands:
 
 ```
 $ ./autogen.sh
@@ -18,13 +18,13 @@ $ make
 $ sudo make install
 ```
 
-4. Cut/paste the fonts included in the /fonts directory into the /usr/share/fonts/truetype directory.
+4. Cut/paste the fonts from `/fonts` into `/usr/share/fonts/truetype`.
 
 5. Start Compiz, and run Emerald for the Window Decoration.
 
 6. Start Emerald Theme Manager. In the Emerald Settings tab try unchecking all of the options and disabling button fade and pulse for the best theme performance.
 
-* Uninstalling the Emerald themes can be done by `cd`ing as administrator into the /usr/share/emerald/themes directory, searching for folders with the tag _Emerald, and carefully deleteing the matches.
+* Uninstalling the Emerald themes can be achieved by `cd`ing as admin into `/usr/share/emerald/themes` and searching for folders to delete with the name _Emerald.
 
 Known Issues
 ------------
@@ -36,4 +36,4 @@ Credits
 --------
 Original theme designs by Mr GRiM, Razorsedge, gsw953, and Tornado. Visit [Virtual Customs](http://virtualcustoms.net/forum.php) for more.
 
-Thanks to the [Compiz Reloaded](https://github.com/compiz-reloaded) team.
+[Compiz Reloaded](https://github.com/compiz-reloaded).
