@@ -1,9 +1,8 @@
 Emerald Theme Collection
 ========================
-![Emerald_Theme_Collection](https://github.com/OliverKurz/emerald-theme-collection/raw/master/images/Preview.png)
-
 This is a complete collection of my premium theme ports for the Emerald Compiz Window Decorator. Compatible Desktop Environments: Any Desktop Environment which can run Compiz.
 
+![Emerald_Theme_Collection](https://github.com/OliverKurz/emerald-theme-collection/raw/master/images/Preview.png)
 Installation Walkthrough
 ------------------------
 1. Install a Linux distribution that supports a Desktop Environment which Compiz can be run on.
@@ -11,9 +10,9 @@ Installation Walkthrough
 2. Install Compiz and Emerald (I recommend checking out the Compiz Reloaded project).
 
 3. cd into the directory you cloned or copied this archive into and type the following commands:
-~$ ./autogen.sh
+`$ ./autogen.sh
 $ make
-$ sudo make install~
+$ sudo make install`
 
 4. Run Compiz and run Emerald as the Window Decoration.
 
@@ -23,3 +22,4 @@ Credits
 --------
 Original theme designs by Mr GRiM, Razorsedge and gsw953.
 Visit [Virtual Customs](http://virtualcustoms.net/forum.php) for more.
+Thanks to the [Compiz Reloaded](https://github.com/compiz-reloaded) team.
