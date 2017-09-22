@@ -28,7 +28,7 @@ Known Issues
 ------------
 1. Emerald themes do not uninstall using `sudo make uninstall`.
 
-2. Installing fonts is an annoying manual extra step.
+2. Installing fonts is an extra step that feels like it should be automated.
 
 Credits
 --------
