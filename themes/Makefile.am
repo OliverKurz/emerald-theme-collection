@@ -1,6 +1,7 @@
 ## Process this file with automake to produce Makefile.in
 themesdir = /usr/share/emerald/themes
 themes_DATA = \
+    Annihilation_Emerald.emerald \
     Annihilator_Emerald.emerald \
     Blade_Emerald.emerald \
     By_Design_Emerald.emerald \
