@@ -13,7 +13,8 @@ Installation Walkthrough
 
 ```$ ./autogen.sh
 $ make
-$ sudo make install```
+$ sudo make install
+```
 
 4. Run Compiz and run Emerald as the Window Decoration.
 
