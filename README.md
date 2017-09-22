@@ -23,6 +23,12 @@ $ sudo make install
 
 6. Open the Emerald Theme Manager and there should be system themes with the tag _Emerald in their title. I recommend unchecking all of the options in the Emerald Settings section in the Emerald Theme Manager, as well as disabling the button fade and pulse settings. Should you choose to uninstall one or all of these Emerald themes, for now this can be done by cding into the /usr/share/Emerald/Themes directory and searching with the tag _Emerald.
 
+Known Issues
+------------
+1. Packages do not uninstall using sudo make uninstall
+
+2. Fonts having to be installed manually
+
 Credits
 --------
 Original theme designs by Mr GRiM, Razorsedge and gsw953. Visit [Virtual Customs](http://virtualcustoms.net/forum.php) for more.
