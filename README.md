@@ -18,11 +18,13 @@ $ make
 $ sudo make install
 ```
 
-4. Cut/paste the fonts included in the /fonts directory into the truetype fonts directory, typically /usr/share/fonts/truetype.
+4. Cut/paste the fonts included in the /fonts directory into the /usr/share/fonts/truetype directory.
 
 5. Start Compiz, and run Emerald for the Window Decoration.
 
-6. Start Emerald Theme Manager. In the Emerald Settings tab try unchecking all of the options and disabling button fade and pulse for the best theme performance. Uninstalling these Emerald themes, for now, can be done by cding as administrator into the /usr/share/emerald/themes directory and searching for folders to delete with the tag _Emerald.
+6. Start Emerald Theme Manager. In the Emerald Settings tab try unchecking all of the options and disabling button fade and pulse for the best theme performance.
+
+* Uninstalling the Emerald themes, for now, can be done by cding as administrator into the /usr/share/emerald/themes directory and searching for folders to delete with the tag _Emerald.
 
 Known Issues
 ------------
