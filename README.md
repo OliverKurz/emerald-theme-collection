@@ -23,8 +23,6 @@ $ sudo make install
 
 Credits
 --------
-Original theme designs by Mr GRiM, Razorsedge and gsw953.
-
-Visit [Virtual Customs](http://virtualcustoms.net/forum.php) for more.
+Original theme designs by Mr GRiM, Razorsedge and gsw953. Visit [Virtual Customs](http://virtualcustoms.net/forum.php) for more.
 
 Thanks to the [Compiz Reloaded](https://github.com/compiz-reloaded) team.
