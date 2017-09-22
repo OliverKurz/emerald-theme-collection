@@ -18,7 +18,7 @@ $ make
 $ sudo make install
 ```
 
-4. Cut/paste the fonts included in the /fonts directory into the truetype fonts directory, usually /usr/share/fonts/truetype.
+4. Cut/paste the fonts included in the /fonts directory into the truetype fonts directory, typically /usr/share/fonts/truetype.
 
 5. Start Compiz, and run Emerald for the Window Decoration.
 
