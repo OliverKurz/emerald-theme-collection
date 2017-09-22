@@ -22,7 +22,7 @@ $ sudo make install
 
 5. Start Compiz, and run Emerald as the Window Decoration.
 
-6. Open the Emerald Theme Manager and there are system themes with the tag _Emerald in their title. Unchecking all of the options in the Emerald Settings section in the Emerald Theme Manager is recommended, as well as disabling the button fade and pulse settings. Uninstalling these Emerald themes for now can be done by cding as administrator into the /usr/share/emerald/themes directory and searching for folders to delete with the tag _Emerald.
+6. Open the Emerald Theme Manager and there are system themes with the tag _Emerald in their title. Unchecking all of the options in the Emerald Settings section in the Emerald Theme Manager is recommended, as well as disabling the button fade and pulse settings. Uninstalling these Emerald themes, for now, can be done by cding as administrator into the /usr/share/emerald/themes directory and searching for folders to delete with the tag _Emerald.
 
 Known Issues
 ------------
