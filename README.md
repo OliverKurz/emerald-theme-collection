@@ -8,9 +8,9 @@ Installation Walkthrough
 ------------------------
 1. Install a Linux distribution that supports MATE, Xfce, LXDE, or LXQt.
 
-2. Install Compiz and Emerald (the Compiz Reloaded project is recommended).
+2. Install Compiz and Emerald, the [Compiz Reloaded project](https://github.com/compiz-reloaded) is recommended.
 
-3. cd into the directory that this archive was cloned or copied to and enter the following commands:
+3. cd into the directory that this archive was cloned or copied to and enter the commands:
 
 ```
 $ ./autogen.sh
