@@ -11,11 +11,9 @@ Installation Walkthrough
 
 3. cd into the directory you cloned or copied this archive into and type the following commands:
 
-`$ ./autogen.sh
-
+```$ ./autogen.sh
 $ make
-
-$ sudo make install`
+$ sudo make install```
 
 4. Run Compiz and run Emerald as the Window Decoration.
 
