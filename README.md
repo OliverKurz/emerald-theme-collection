@@ -2,7 +2,7 @@ Emerald Theme Collection
 ========================
 This is a complete collection of premium themes for the Emerald Compiz Window Decorator.
 
-![Emerald_Theme_Collection](https://github.com/OliverKurz/emerald-theme-collection/raw/master/images/Preview1.png)
+![Emerald_Theme_Collection](https://github.com/OliverKurz/emerald-theme-collection/raw/master/images/Preview.png)
 
 Installation Walkthrough
 ------------------------
