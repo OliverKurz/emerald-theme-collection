@@ -19,7 +19,6 @@ themes_DATA = \
     Jarvis_Emerald.emerald \
     John_Wick_Emerald.emerald \
     Maximum_Security_One_Emerald.emerald \
-    Maximum_Security_One_Green_Emerald.emerald \
     Metal_Graveyard_Emerald.emerald \
     Midnight_Emerald.emerald \
     Midnight_Glass_Emerald.emerald \
