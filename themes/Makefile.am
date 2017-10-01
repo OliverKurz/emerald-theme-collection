@@ -7,6 +7,9 @@ themes_DATA = \
     By_Design_Emerald.emerald \
     Castle_Emerald.emerald \
     Chrononaut_Emerald.emerald \
+    Concept_Design_Blue_Emerald.emerald \
+    Concept_Design_Green_Emerald.emerald \
+    Concept_Design_Red_Emerald.emerald \
     Consolidated_Emerald.emerald \
     DeathStar_Emerald.emerald \
     DeathStar_Blue_Emerald.emerald \
